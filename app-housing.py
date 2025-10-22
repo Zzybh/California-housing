@@ -5,7 +5,7 @@ import seaborn as sns
 
 st.set_page_config(page_title="California Housing Data (1990)", layout="wide")
 
-st.title("California Housing Data (1990)")
+st.title("California Housing Data (1990) by Zhao Ziyu")
 st.markdown("### Minimal Median House Value")
 
 
